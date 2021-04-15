@@ -1,4 +1,4 @@
-- Hi, I’m Luke Demas (@luke-demas)
+- Hi, I’m Luke Demas
 - I’m currently working on a Computer Science BS at George Mason University
 - You can reach me at ldemas@masonlive.gmu.edu
 
