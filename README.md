@@ -1,6 +1,6 @@
 - Hi, I’m Luke Demas
-- I’m currently working on a Computer Science BS at George Mason University
-- You can reach me at ldemas@gmu.edu
+- I’m a Junior Software Engineer at Azure Summit Technology
+- You can reach me at lukedemas@protonmail.com
 
 <!---
 luke-demas/luke-demas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
